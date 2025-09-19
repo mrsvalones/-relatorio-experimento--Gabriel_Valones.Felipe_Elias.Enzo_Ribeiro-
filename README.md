@@ -18,3 +18,14 @@ cd "meu-projeto" ;
 Depois de entrar no repositório iniciamos ele átravez do comando:
 git init ;
 
+4 - Criação dos arquivos:
+Após iniciarmos o Git no repositório criamos alguns arquivos:
+nome.txt → insira 5 nomes de pessoas;
+empresa.txt → insira 5 nomes de empresas;
+exercício.txt → digite (Problema – Crie um algoritmo (pseudocódigo) para calcular a
+média de um aluno que estuda semestralmente e exiba o resultado);
+index.html → insira a estrutura básica do html (!) e escreva uma mensagem de boas
+vindas no corpo do documento;
+script.js → crie um programa que exiba duas mensagens em duas linhas diferentes.
+Exiba na primeira linha “Bem-vindo. Estou aprendendo” e exiba na segunda linha a
+mensagem “JavaScript”.
