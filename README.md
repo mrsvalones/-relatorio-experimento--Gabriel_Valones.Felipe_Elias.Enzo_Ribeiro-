@@ -29,3 +29,9 @@ vindas no corpo do documento;
 script.js → crie um programa que exiba duas mensagens em duas linhas diferentes.
 Exiba na primeira linha “Bem-vindo. Estou aprendendo” e exiba na segunda linha a
 mensagem “JavaScript”.
+
+5 - Envio para área de staging:
+Ápos criarmos os arquivos,  adicionamos um arquivo específico à área de staging com o comando:
+git add ;
+E para verificar se o arquivo foi enviado usamos o comando:
+git status ;
