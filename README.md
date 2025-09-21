@@ -1,4 +1,5 @@
 # -relatorio-experimento--Gabriel_Valones.Felipe_Elias.Enzo_Ribeiro-
+
 Relatório do experimento em sala de aula
 
 Em nossa aula sobre os softwares Git e Git Hub fizemos um experimento em sala de aula
@@ -35,3 +36,9 @@ mensagem “JavaScript”.
 git add ;
 E para verificar se o arquivo foi enviado usamos o comando:
 git status ;
+
+6- Envio dos arquivos para o repositório: Usamos o git commit -M para salvar as alterações que fizemos
+(que estavam na staging area) e enviar os arquivos para o nosso repositorio, assim também criando um 
+histórico de versão.
+
+
