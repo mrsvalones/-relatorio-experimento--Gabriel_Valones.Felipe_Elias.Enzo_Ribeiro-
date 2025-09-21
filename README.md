@@ -51,5 +51,6 @@ git status ;
 Usamos o comando git commit -M para salvar as alterações que fizemos
 (que estavam na staging area) e enviar os arquivos para o nosso repositorio, assim também criando um 
 histórico de versão.
+pórem ocorreu um problema pois os commits foram barrados devido ao gate da rede do laboratório que utilizamos.
 
 
