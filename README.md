@@ -6,7 +6,7 @@ Em nossa aula sobre os softwares Git e Git Hub fizemos um experimento em sala de
 
 
 1 - Criar usuário:
-No plataforma Git criamos o nosso usuário átravez dos comandos:
+No plataforma Git criamos o nosso usuário através dos comandos:
 git config --global user.name "Seu Nome" ;
 git config --global user.email "seu.email@exemplo.com" ;
 
@@ -19,7 +19,7 @@ cd "meu-projeto" ;
 
 
 3 - Iniciar o repositório:
-Depois de entrar no repositório iniciamos ele átravez do comando
+Depois de entrar no repositório iniciamos ele através do comando
 git init ;
 
 
@@ -36,12 +36,12 @@ index.html → insira a estrutura básica do html (!) e escreva uma mensagem de 
 vindas no corpo do documento;
 
 script.js → crie um programa que exiba duas mensagens em duas linhas diferentes.
-Exiba na primeira linha “Bem-vindo. Estou aprendendo” e exiba na segunda linha a
+Exiba na primeira linha “Bem-vindo. Estou aprendendo” e exibe na segunda linha a
 mensagem “JavaScript”.
 
 
 5 - Envio para área de staging:
-Ápos criarmos os arquivos,  adicionamos um arquivo específico à área de staging com o comando
+Após criarmos os arquivos,  adicionamos um arquivo específico à área de staging com o comando
 git add ;
 E para verificar se o arquivo foi enviado usamos o comando
 git status ;
@@ -51,6 +51,6 @@ git status ;
 Usamos o comando git commit -M para salvar as alterações que fizemos
 (que estavam na staging area) e enviar os arquivos para o nosso repositorio, assim também criando um 
 histórico de versão.
-pórem ocorreu um problema pois os commits foram barrados devido ao gate da rede do laboratório que utilizamos.
+porém ocorreu um problema pois os commits foram barrados devido ao gate da rede do laboratório que utilizamos.
 
 
