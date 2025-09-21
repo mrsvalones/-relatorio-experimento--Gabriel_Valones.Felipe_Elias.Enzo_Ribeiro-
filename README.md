@@ -4,22 +4,30 @@ Relatório do experimento em sala de aula
 
 Em nossa aula sobre os softwares Git e Git Hub fizemos um experimento em sala de aula
 
+
 1 - Criar usuário:
-No plataforma Git criamos o nosso usuário átravez dos comados:
+
+No plataforma Git criamos o nosso usuário átravez dos comandos:
 git config --global user.name "Seu Nome" ;
 git config --global user.email "seu.email@exemplo.com" ;
 
+
 2 - Criar/entrar no diretório do repositório:
+
 Para criar o repositório usamos o comando:
 mkdir "meu-projeto" ;
 Para entrar no repositório usamos:
 cd "meu-projeto" ;
 
+
 3 - Iniciar o repositório:
+
 Depois de entrar no repositório iniciamos ele átravez do comando:
 git init ;
 
+
 4 - Criação dos arquivos:
+
 Após iniciarmos o Git no repositório criamos alguns arquivos:
 nome.txt → insira 5 nomes de pessoas;
 empresa.txt → insira 5 nomes de empresas;
@@ -31,13 +39,18 @@ script.js → crie um programa que exiba duas mensagens em duas linhas diferente
 Exiba na primeira linha “Bem-vindo. Estou aprendendo” e exiba na segunda linha a
 mensagem “JavaScript”.
 
+
 5 - Envio para área de staging:
+
 Ápos criarmos os arquivos,  adicionamos um arquivo específico à área de staging com o comando:
 git add ;
 E para verificar se o arquivo foi enviado usamos o comando:
 git status ;
 
-6- Envio dos arquivos para o repositório: Usamos o git commit -M para salvar as alterações que fizemos
+
+6- Envio dos arquivos para o repositório:
+
+Usamos o git commit -M para salvar as alterações que fizemos
 (que estavam na staging area) e enviar os arquivos para o nosso repositorio, assim também criando um 
 histórico de versão.
 
