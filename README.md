@@ -19,7 +19,7 @@ cd "meu-projeto" ;
 
 
 3 - Iniciar o repositório:
-Depois de entrar no repositório iniciamos ele átravez do comando:
+Depois de entrar no repositório iniciamos ele átravez do comando
 git init ;
 
 
